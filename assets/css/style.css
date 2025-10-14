@@ -3720,4 +3720,10 @@ span.page-numbers:hover:not(.current) {
     max-height: 24px;
     filter: brightness(0);
 }
+.behance-btn{
+    color: #fa2c00;
+    border: solid 1px #fa2c00;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
 /* #endregion All Media Queries *//*# sourceMappingURL=style.css.map */
