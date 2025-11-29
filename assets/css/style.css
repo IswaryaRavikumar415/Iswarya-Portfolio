@@ -2030,7 +2030,7 @@ header .navbar-expand .dropdown:hover > .dropdown-menu {
   gap: 0.25em;
   padding: 0.5rem 0.75rem;
   border-radius: 50rem;
-  font-size: 1rem !important;
+  font-size: 13px !important;
   font-weight: 600 !important;
   color: var(--primary-p-color);
   transition: all var(--transition-function) var(--transition-duration);
